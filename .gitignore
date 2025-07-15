@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model and data files
+# *.pkl   # <-- Commented out so .pkl files are tracked
+*.h5
+*.joblib
+*.csv
+*.tsv
+*.npz
+*.npy
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Misc
+*.swp 
