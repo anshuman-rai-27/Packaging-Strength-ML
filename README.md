@@ -79,6 +79,3 @@ This project provides a Flask-based API for predicting packaging strength using 
      - Build Command: `pip install -r requirements.txt`
      - Start Command: `gunicorn app:app`
 3. **Access your API at the public Render URL.**
-
-## License
-MIT 
